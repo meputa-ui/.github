@@ -2,8 +2,6 @@
 
 > **Enterprise-grade UI built to ship features, with zero design bloat.**
 
----
-
 ## 🎯 Motive
 
 **Meputa** — from the Igbo word *"to bring out" or "to produce"* — exists to help teams **bring out their product ideas faster**, with styled components that get out of the way. We believe UI libraries should accelerate development, not slow it down with unnecessary decisions or bloat.
